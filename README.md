@@ -34,7 +34,7 @@ La escena incluye una interfaz interactiva con **lil-gui**, donde puedes:
 ## 🔧 Instalación y Uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/3jsPlayground.git
+   git clone https://github.com/brivaro/3jsPlayground.git
    ```
 2. Abre `index.html` en tu navegador o usa un servidor local como **Live Server** en VSCode.
 
