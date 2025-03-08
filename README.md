@@ -17,10 +17,10 @@ Bienvenido a **3jsPlayground**, un espacio experimental donde realizo pruebas y 
 │── models/                # Modelos 3D en formato GLTF
 │── images/                # Texturas y cubemaps
 │── videos/                # Videos para texturas dinámicas
-│── src/                   # Código fuente
+│── js/                    # Código fuente
 │   ├── EscenaIluminada.js # Script principal con luces y materiales
 │── index.html             # Archivo base para ejecutar la escena
-│── styles.css             # Estilos opcionales para la interfaz
+...
 ```
 
 ## 🎮 Controles y Personalización
